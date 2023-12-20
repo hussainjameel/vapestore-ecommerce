@@ -1,0 +1,4 @@
+{
+  "db": "mongodb://localhost/vape-store",
+  "jwtPrivateKey": "SomePrivateKey"
+}
